@@ -3,7 +3,6 @@ certifi==2018.8.24
 cffi==1.11.5
 chardet==3.0.4
 Click==7.0
-cryptography==2.1.4
 Deprecated==1.2.3
 enum34==1.1.6
 Flask==1.0.2
@@ -20,7 +19,6 @@ keyrings.alt==3.0
 lookml==0.0.3
 MarkupSafe==1.0
 pycparser==2.19
-pycrypto==2.6.1
 PyGithub==1.43.2
 PyJWT==1.6.4
 requests==2.19.1
