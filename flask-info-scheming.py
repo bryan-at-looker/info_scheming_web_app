@@ -25,7 +25,6 @@ def webhook():
 
       g = git.cmd.Git(git_dir)
       g.pull()
-      g.push()
 
       f = open(git_dir+'/'+filename, 'w')
       f.write(lookml)
